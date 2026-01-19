@@ -1,0 +1,20 @@
+# Build output
+Debug/
+Release/
+
+# Eclipse / CubeIDE
+.metadata/
+.settings/
+*.launch
+*.cfg
+
+# OS junk
+.DS_Store
+
+# Backups
+*.bak
+
+
+
+
+
